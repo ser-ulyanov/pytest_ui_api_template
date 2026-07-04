@@ -9,4 +9,5 @@
 - _sqlalchemy_
 
 ### Полезные ссылки
-- [Подсказка по markdown](https://www.markdownguide.org/basic-syntax/
+- [Подсказка по markdown](https://www.markdownguide.org/basic-syntax/)
+- [Генератор файлов .gitignore](https://www.toptal.com/developers/gitignore)
